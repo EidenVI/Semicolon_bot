@@ -1,0 +1,1 @@
+A simple Discord bot that gets the job done! This bot provides a solid foundation for your server's moderation and general needs, offering a range of basic commands to help keep your community in check.
